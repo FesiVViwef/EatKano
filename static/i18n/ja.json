@@ -13,6 +13,8 @@
   "time": "時間",
   "key": "キー",
   "ok": "確認",
+  "pattern": "键型序列",
+  "pattern-hint": "输入1-4的数字序列（如1223）",
   "name": "名前",
   "comment": "Msg",
   "eat-kano": "Eat Kano",
