@@ -12,6 +12,8 @@
   "title": "Title",
   "time": "Time",
   "key": "Key",
+  "pattern": "Pattern",
+  "pattern-hint": "Input 1-4(1223,etc.)",
   "ok": "OK",
   "name": "Name",
   "comment": "Msg",
