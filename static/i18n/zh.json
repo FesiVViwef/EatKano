@@ -10,6 +10,8 @@
   "sound-on": "音效: 开启",
   "sound-off": "音效: 关闭",
   "title": "标题",
+  "pattern": "键型序列",
+  "pattern-hint": "输入1-4的数字序列（如1223）",
   "time": "时间",
   "key": "按键",
   "ok": "确定",
